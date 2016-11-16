@@ -1,4 +1,4 @@
 function highlight(){
   $('h1').text('Hello');
-  $('jumbotron').addClass('highlight');
+  $('.jumbotron').addClass('highlight');
 }
